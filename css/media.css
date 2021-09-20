@@ -1,0 +1,16 @@
+@media (min-width:0px) and (max-width:767px){
+    header .btn-download {
+    
+        margin-left: 35px;
+     
+    }
+    .btn-download {
+    
+        margin-left: 0;
+     
+    }
+    footer p {
+       
+        text-align: center;
+    }
+}
